@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(181, 61, 18);
+    font-family: Verdana;
+    text-align: center;
+}
+.botones{
+    margin-top: 1cm;
+}
+button{
+    height: 1cm;
+    width: 3cm;
+}
+.resultado{
+    margin-top: 2cm;
+}
